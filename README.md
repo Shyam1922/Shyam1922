@@ -1,5 +1,14 @@
-# 💫 About Me:
-I'm currently a student
+# Hey, I'm Shyam Yadav 👋
+
+### ML Engineer in Progress | Machine Learning · Deep Learning · AI Research
+
+I'm a B.Tech student exploring how intelligent systems **learn, perceive, and reason**. I enjoy understanding the mathematics behind machine learning, implementing algorithms, and building AI systems that solve real-world problems.
+
+- 🧠 Exploring **Machine Learning, Deep Learning & Neural Networks**
+- 🔬 Interested in mathematical foundations, model behavior, and research-oriented AI
+- 🛠️ Building practical AI/ML systems, from experimentation to deployment
+- 🌱 Currently strengthening my foundations in deep learning, PyTorch, and MLOps
+- 🎯 Goal: Become an ML engineer who bridges research and real-world applications
 
 
 ## 🌐 Socials:
